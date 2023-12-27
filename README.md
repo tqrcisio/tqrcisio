@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi, i'm Tarcisio!
 
-<!--
-**tqrcisio/tqrcisio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+- 🌱 Currently immersed in intensive studies of C# and .NET, I am enhancing my skills in ASP.NET and Entity Framework with the aim of developing robust and efficient solutions, such as Desktop applications and RESTful APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/tqrcisio/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tarcisio-blue?style=flat-square&logo=linkedin">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tqrcisio/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tqrcisio&layout=compact">
+  </a>
+</p>
