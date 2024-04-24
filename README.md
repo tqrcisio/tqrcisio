@@ -12,8 +12,3 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/tqrcisio/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tqrcisio&layout=compact">
-  </a>
-</p>
