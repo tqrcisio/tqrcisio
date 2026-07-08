@@ -15,4 +15,4 @@ I lean on AI heavily in my dev flow, but I still read every line before it ships
 
 Stack: Go · Node · NestJS · PostgreSQL · Redis · React · TanStack Query
 
-tarcisiosaf@gmail.com · [LinkedIn](https://linkedin.com/in/tqrcisio)
+[tarcisioferreira.com](https://tarcisioferreira.com) · tarcisiosaf@gmail.com · [LinkedIn](https://linkedin.com/in/tqrcisio)
